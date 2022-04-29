@@ -1,5 +1,4 @@
 const EventEmitter = require('events');
-const { type } = require('os');
 const emitter = new EventEmitter();
 
 // Enregistrement de l'ecouteur
